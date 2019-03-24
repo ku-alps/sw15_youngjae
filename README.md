@@ -1,4 +1,4 @@
-백준
+백준<br>
  1932번:<a href="https://www.acmicpc.net/problem/1932">정수삼각형</a><br>
  2309번:<a href="https://www.acmicpc.net/problem/2309">일곱난쟁이</a><br>
  2667번:<a href="https://www.acmicpc.net/problem/2667">단지번호붙이기</a><br>
